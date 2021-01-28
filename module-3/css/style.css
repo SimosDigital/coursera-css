@@ -1,0 +1,31 @@
+.navbar-default .navbar-collapse > ul {
+    background-color: rgb(255, 187, 162);
+    text-align: center;
+}
+
+.navbar-default .navbar-collapse > ul > li.active > a,
+.navbar-default .navbar-collapse > ul > li.active > a:focus,
+.navbar-default .navbar-collapse > ul > li.active > a:hover {
+    background-color: rgb(255, 169, 137);
+}
+
+h1 {
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.with-margins {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.menu-item {
+    background-color: lightpink;
+    min-height: 1000px;
+    font-size: 1.5em;
+    padding: 10px 20px 20px 20px;
+}
